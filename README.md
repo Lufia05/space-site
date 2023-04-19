@@ -1,1 +1,1 @@
-# space-site
+Here is a space site that I made quickly. In this code I utilize the google fonts. Using images within the css style sheet. Deciding to use an id instead of class to target in the css style sheet. Nothing fancy about this but I figure I document my progress and different projects I build for practice. Enjoy:)
